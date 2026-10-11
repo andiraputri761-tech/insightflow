@@ -9,8 +9,9 @@ __pycache__/
 *.pkl
 *.joblib
 
-# Virtual environment
+# Virtual environments
 .venv/
+.ve.venv/
 venv/
 env/
 
