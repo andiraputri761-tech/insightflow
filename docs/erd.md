@@ -1,4 +1,4 @@
-
+```mermaid
 erDiagram
     CUSTOMERS ||--o{ ORDERS : places
     ORDERS ||--|{ ORDER_ITEMS : contains
@@ -86,7 +86,7 @@ erDiagram
         string geolocation_city
         string geolocation_state
     }
-
+```
 
 ## ERD Overview
 
